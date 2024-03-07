@@ -1,5 +1,5 @@
 # carolpack
-My very own mod pack is just a bunch of compiled mods.
+My very own modpack for Minecraft that is just a bunch of compiled mods.
 If you have an Nvidia GPU, you can use the modpack labelled carolpack-<version>-Nvidia.
 However, if you do not have an Nvidia GPU, you may use the modpack labelled carolpack-<version>-NoNvidia.
 Latest Version: 1.20.2
