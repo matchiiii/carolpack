@@ -1,11 +1,13 @@
 # carolpack library
 Sets of my mod packs for Minecraft are just a bunch of compiled mods.
 
-#carolpack Vanilla/Unmodded - ~50MB
-You can use the modpack labelled **carolpack-<version>-Nvidia** if you have an Nvidia GPU.
+**carolpack Vanilla/Unmodded** - ~50MB
+
+You can use the modpack labelled *carolpack-<version>-Nvidia* if you have an Nvidia GPU.
 However, if you do not have an Nvidia GPU, you may use the modpack labelled **carolpack-<version>-NoNvidia**.
 
-#carolpack - Modded Server - ~1.8GB
+**carolpack - Modded Server** - ~1.8GB
+
 You probably shouldn't use this unless you're also part of the MineColonies server run by Lumpoon. 
 
 All credits for the mods and whatnot go to their respective authors.
